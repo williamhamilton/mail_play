@@ -9,6 +9,8 @@
 #
 __ToDo__ = """
 - add logging
+- extract attachments
+- look at OneDrive to save attachments
 """
 
 #
